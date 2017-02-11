@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="items">
+        <item>GocalSD Papers</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>HTC</item>
+        <item>Nature</item>
+        <item>Colors</item>
+    </string-array>
+
+</resources>

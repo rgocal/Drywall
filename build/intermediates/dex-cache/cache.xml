@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_7facfb7f4063216cfffb090a98e2eea512170fd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.koushikdutta.ion-ion-2.1.9_441678b8b3987571a84fd92309d8bb727e788ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_a124a7be690c41832139d9d512d7116530135fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-design-25.1.1_af18c764bc29b9c91c00d7043b3291ff7b55ef56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b398ff8f4e91cf9ef306241b78667870b9c3a06">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.afollestad.material-dialogs-commons-0.9.1.0_78273da2f42bf8b2b2c79bfd1d9ed422f8e007d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.mikepenz-fastadapter-1.8.0_8c8bdf669c042995a35a5b263bb84acd9e78e899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.1_1bc5d262d1655f576ffd042f402d44457d54b474.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_f2f6be145791979e391050cd8bdf9c8cebe48619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialdrawer-5.6.0_d0cb9334ceada6a55359c8f393347bb1bcf129cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_a75ef7659ae1f531e9aa819f735fcff5984ef351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.0_662fbf9996b76b60e0982b71f209be608aab6764/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/de.psdev.licensesdialog/licensesdialog/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="063e8091cd19fe30677bce05fa3bc970212f3a9a">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/de.psdev.licensesdialog-licensesdialog-1.8.0_359013d94cb177596475e454a36641baeeb58951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.1_a28a5f0e52888ba24d032c1f015ae7fe8dd84d55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.github.castorflex.verticalviewpager/library/19.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cac65d41873c63e90b9406c9dbccc05b15113c45">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.castorflex.verticalviewpager-library-19.0.1_61bd7536b157b05b63dd12cedaeb80fb828dc361/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.koushikdutta.async-androidasync-2.1.9_ab885d431dfb598adfa9a58256f688e7ed4e660a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.1.1_a5f6d4a3638cc88dbcff4d68d0ef808b1e0ae8d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.1_60757d9688580e05619fef75c7e85b5da9cd5f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.mikepenz-iconics-core-2.8.0_1fd448abb7f190c2c84094ade91d0467378841f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.1_4e550fcffb0eeb31b3a2ece3c83645eeb8d779e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.1_ef4b78f6740d03e2feef80e82d85bdb84db2dbd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.balysv-material-ripple-1.0.2_772dfc4266e82b29023735bf936c2303c205f5e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/Android/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_ce2657004c7bd3cd018f1dcfaadcae46dfd418a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4360067c011e758572889964c0e74d093c13ae59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.1.1_c41d659f36db399027c430f416bf4e35f553d69c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.github.florent37/awesomebar/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="321b59d39f8c18f333749f9986b1aa15b369d961">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.florent37-awesomebar-1.0.0_7112e87c1901cf30a10212aadadbcac816c7202f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.afollestad.material-dialogs-core-0.9.1.0_1ab64a0a29b46e010dd6c32bd032b5e8e344dbaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/gson-2.3_33c742a7f6818bc00a37b043b9d328add446584b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.mikepenz-materialize-1.0.0_f0142d631c42a8e6d7df61c4c7fa86e6bb4229d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.makeramen-roundedimageview-2.2.1_e099916596de858446d184b09e7534053bd99fab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.mikepenz-materialdrawer-5.6.0_d0cb9334ceada6a55359c8f393347bb1bcf129cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.3.0_f2e5c59108d05ba7003e1b3d648ab90cd4ab65db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_2ca360498e07bf95f861677df783c7d80bf4381c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/picasso-2.5.2_9aa7d3d9af4ce1e7e440a00215dc21193ffee4b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_b6c006df813f9e97d3c8650227140248948094cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_b67b8ec52ea0cc8892218a093544497630861d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.1_f2f6be145791979e391050cd8bdf9c8cebe48619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.1_7facfb7f4063216cfffb090a98e2eea512170fd8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_4e550fcffb0eeb31b3a2ece3c83645eeb8d779e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_af18c764bc29b9c91c00d7043b3291ff7b55ef56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.ion-ion-2.1.9_441678b8b3987571a84fd92309d8bb727e788ddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_a124a7be690c41832139d9d512d7116530135fdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b398ff8f4e91cf9ef306241b78667870b9c3a06">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.afollestad.material-dialogs-commons-0.9.1.0_78273da2f42bf8b2b2c79bfd1d9ed422f8e007d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/1.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-fastadapter-1.8.0_8c8bdf669c042995a35a5b263bb84acd9e78e899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/de.psdev.licensesdialog/licensesdialog/1.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="063e8091cd19fe30677bce05fa3bc970212f3a9a">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.psdev.licensesdialog-licensesdialog-1.8.0_359013d94cb177596475e454a36641baeeb58951/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_1bc5d262d1655f576ffd042f402d44457d54b474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-iconics-core-2.8.0_1fd448abb7f190c2c84094ade91d0467378841f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.github.castorflex.verticalviewpager/library/19.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cac65d41873c63e90b9406c9dbccc05b15113c45">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.github.castorflex.verticalviewpager-library-19.0.1_61bd7536b157b05b63dd12cedaeb80fb828dc361.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.async-androidasync-2.1.9_ab885d431dfb598adfa9a58256f688e7ed4e660a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-support-v13-25.0.0_662fbf9996b76b60e0982b71f209be608aab6764.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_60757d9688580e05619fef75c7e85b5da9cd5f7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_a28a5f0e52888ba24d032c1f015ae7fe8dd84d55/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.1_a75ef7659ae1f531e9aa819f735fcff5984ef351.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_ef4b78f6740d03e2feef80e82d85bdb84db2dbd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_a5f6d4a3638cc88dbcff4d68d0ef808b1e0ae8d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.github.florent37/awesomebar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="321b59d39f8c18f333749f9986b1aa15b369d961">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.github.florent37-awesomebar-1.0.0_7112e87c1901cf30a10212aadadbcac816c7202f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="447c32ed8eb294bb4df9710622d7b862fa1f6086">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_802cb3f7714fcbfa38e6ac75a76d55603badda11/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_4360067c011e758572889964c0e74d093c13ae59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-palette-v7-25.1.1_c41d659f36db399027c430f416bf4e35f553d69c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/Android/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/support-annotations-25.1.1_ce2657004c7bd3cd018f1dcfaadcae46dfd418a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.balysv-material-ripple-1.0.2_772dfc4266e82b29023735bf936c2303c205f5e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialize-1.0.0_f0142d631c42a8e6d7df61c4c7fa86e6bb4229d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53808ee1ea8b089a8b3b12032ab5760d8a75798c">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f0e28095f9cd54defc651d7fde38190d525e6b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_33c742a7f6818bc00a37b043b9d328add446584b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.makeramen-roundedimageview-2.2.1_e099916596de858446d184b09e7534053bd99fab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/me.zhanghai.android.materialprogressbar-library-1.3.0_f2e5c59108d05ba7003e1b3d648ab90cd4ab65db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.afollestad.material-dialogs-core-0.9.1.0_1ab64a0a29b46e010dd6c32bd032b5e8e344dbaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.1_b67b8ec52ea0cc8892218a093544497630861d2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.1_b6c006df813f9e97d3c8650227140248948094cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ry/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_9aa7d3d9af4ce1e7e440a00215dc21193ffee4b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ry/StudioProjects/Drywall/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/ry/StudioProjects/Drywall/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.1_2ca360498e07bf95f861677df783c7d80bf4381c.jar" />
+    </item>
+
+</items>

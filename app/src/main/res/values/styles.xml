@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="ActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/dialogcontent</item>
+        <item name="colorPrimaryDark">@color/dark_grey</item>
+    </style>
+
+    <style name="Activity" parent="@android:style/Theme.Material.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/dialogcontent</item>
+        <item name="colorPrimaryDark">@color/dark_grey</item>
+    </style>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/dialogcontent</item>
+        <item name="colorPrimaryDark">@color/dark_grey</item>
+    </style>
+
+</resources>

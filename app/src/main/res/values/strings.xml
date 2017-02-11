@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Drywall</string>
+
+    <!-- Wallpapers Stuff -->
+    <string name="no_conn_title">No Connection Found</string>
+    <string name="no_conn_content">Wallpapers are stored on Cloud Server. Please connect to Internet and try again.</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="download_done">Download completed successfully Picture is located at </string>
+    <string name="apply">Apply</string>
+    <string name="set_as">Crop picture and set as…</string>
+    <string name="set_wall_title">Wallpaper set</string>
+    <string name="set_wall_content">Please, choose an option. Would you like to crop the picture? Or do you prefer to set it in its actual size?</string>
+    <string name="crop_wall">Crop Wall</string>
+    <string name="set_it">Set it now!</string>
+    <string name="save">Save</string>
+    <string name="done">Done!</string>
+    <string name="progress_dialog_title">Downloading wallpaper</string>
+    <string name="setting_wall_title">Setting pic as wallpaper</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="set_as_wall_done">Picture set as wallpaper successfully Go to Home screen and check it.</string>
+    <string name="error">Error</string>
+    <string name="wall_error">Sorry, previous action wasn\'t actually applied, because it seems there\'s no picture. Check your Internet connection and try again.</string>
+    <string name="json_error_toast">Error while downloading wallpapers info. Try again later.</string>
+
+    <string name="json_file_url">"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/JSON-Files/walls_test.json"</string>
+    <string name="close">Close</string>
+    <string name="walls_prefix_name">Drywall_</string>
+    <string name="walls_save_location">/Drywall/Wallpapers/</string>
+    <string name="title_ab_detailed_wallpaper" />
+    <string name="title_activity_detailed_wallpaper">Detailed Wallpaper</string>
+    <string name="selection_title">Choose wallpaper from</string>
+    <string name="papers">Paper Action</string>
+
+    <string name="json_category_one">https://raw.githubusercontent.com/rgocal/SUI/master/category_one.json</string>
+    <string name="json_category_two">https://raw.githubusercontent.com/rgocal/SUI/master/category_two.json</string>
+    <string name="json_category_three">https://raw.githubusercontent.com/rgocal/SUI/master/category_three.json</string>
+    <string name="json_category_four">https://raw.githubusercontent.com/rgocal/SUI/master/category_four.json</string>
+    <string name="json_category_five">https://raw.githubusercontent.com/rgocal/SUI/master/category_five.json</string>
+    <string name="json_category_six">https://raw.githubusercontent.com/rgocal/SUI/master/category_six.json</string>
+    <string name="copyright">Copyright 2016–2017</string>
+</resources>

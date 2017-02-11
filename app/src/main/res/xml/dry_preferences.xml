@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Drywall"/>
+
+    <Preference
+        android:title="Version"
+        android:summary="1.01.00"
+        android:selectable="false"/>
+
+    <Preference
+        android:key="reset"
+        android:title="Reset Data"
+        android:summary="Erases the application's cache data and resets it to first time usage."/>
+
+    <PreferenceCategory
+        android:title="Wallpaper Providers" />
+
+    <Preference
+        android:title="HTC"
+        android:summary="@string/copyright"
+        android:selectable="false"/>
+
+    <Preference
+        android:title="Samsung"
+        android:summary="@string/copyright"
+        android:selectable="false"/>
+
+    <Preference
+        android:title="Sony"
+        android:summary="@string/copyright"
+        android:selectable="false"/>
+
+</PreferenceScreen>
