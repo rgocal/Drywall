@@ -39,3 +39,6 @@ Each case represents a different wallpaper fragment that represents a different 
   Basic code, basic project, very good for beginner android devs to disect and give a try. I will update the code when necessary and also push any changes any developers find necessary. 
   
   Any questions, contact me on Hangouts at rgocal09@gmail.com
+  
+  Drywall is based on the wallpaper services available in Paperboard
+  https://github.com/jahirfiquitiva/PaperBoard-Final
