@@ -5,7 +5,6 @@
   <title>Drywall2</title>
   <link>https://github.com/rgocal/Drywall/new/Drywall2/featured_walls.rss</link>
   <description>A RSS dedicated to companion news.</description>
-  
   <item>
     <title>Going Forward</title>
     <dc:creator>Rgocal</dc:creator>
@@ -15,7 +14,6 @@
 ]]>
 </content:encoded>
   </item>
-  
   <item>
     <title>Going Forward</title>
     <dc:creator>Rgocal</dc:creator>
@@ -25,7 +23,6 @@
 ]]>
 </content:encoded>
   </item>
-  
   <item>
     <title>Going Forward</title>
     <dc:creator>Rgocal</dc:creator>
@@ -35,7 +32,6 @@
 ]]>
 </content:encoded>
   </item>
-  
   <item>
     <title>Going Forward</title>
     <dc:creator>Rgocal</dc:creator>
@@ -45,7 +41,6 @@
 ]]>
 </content:encoded>
   </item>
-  
   <item>
     <title>The Fall</title>
     <dc:creator>Bungie</dc:creator>
@@ -55,7 +50,6 @@
 ]]>
 </content:encoded>
   </item>
-  
 </channel>
 
 </rss>
