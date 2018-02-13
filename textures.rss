@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Drywall2</title>
+  <link>https://github.com/rgocal/Drywall/new/Drywall2/featured_walls.rss</link>
+  <description>A RSS dedicated to companion news.</description>
+  <item>
+    <title>Textures</title>
+    <description>8</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://github.com/rgocal/Drywall/blob/Drywall2/archives/Textures/IMG_20170529_111536.jpg?raw=true">
+]]>
+</content:encoded>
+  </item>
+</channel>
+
+</rss>
