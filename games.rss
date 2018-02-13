@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Drywall2</title>
+  <link>https://github.com/rgocal/Drywall/new/Drywall2/featured_walls.rss</link>
+  <description>A RSS dedicated to companion news.</description>
+  <item>
+    <title>Games</title>
+    <description>?</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://plus.google.com/u/0/photos/photo/100201209156317802250/6521701589583935058?icm=true&iso=false&ftu=false">
+]]>
+</content:encoded>
+  </item>
+</channel>
+
+</rss>
