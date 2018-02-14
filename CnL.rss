@@ -7,9 +7,28 @@
   <description>A RSS dedicated to companion news.</description>
   <item>
     <title>Moonlight</title>
-    <description><![CDATA[
-<img src="https://github.com/rgocal/Drywall/blob/master/archives/Campagna/170110_10-01.jpg?raw=true" alt="" />
-]]></description>
+    <description>
+    <![CDATA[
+        <img src="http://eu.techcrunch.com/wp-content/uploads/startupbritain.jpg" alt="" />
+        This morning in London, the UK's answer to <a href="http://www.whitehouse.gov/issues/startup-america">
+        Startup America</a> launches, titled - guess what? - <a href="http://www.startupbritain.org/">Startup Britain</a>.
+        That similarity aside, the initiative has been put together by a number of existing UK entrepreneurs and 
+        is not being backed by any government money, unlike the Obama initiative. Instead, we have here a 
+        ground-up entrepreneur-led initiative which is seeing over 60 leading brands offer services to 
+        up-and-coming startups in the UK. This is not specifically about tech startups - but it may well appeal to that sector. 
+
+        The campaign is being launched by Prime Minister David Cameron, who is known to be very pro-enterprise. 
+        The UK has 270,000 businesses that start up every year but many fail due to a lack of support. So in 
+        effect the Startup Britain initiative is doing a few things much more differently. It's offering a 
+        package of discounts and free trial on business services like insurance, broadband, advertising, 
+        office space and more. The claim is that this amounts to over £1,500 in value for every startup 
+        company in Britain. Startup Britain is a portal site to a package of these services. 
+        <img alt="" 
+             border="0" 
+             src="http://stats.wordpress.com/b.gif?host=techcrunch.com" 
+             width="1" height="1" />
+    ]]>
+</description>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://github.com/rgocal/Drywall/blob/master/archives/Campagna/170110_10-01.jpeg?raw=true">
