@@ -7,14 +7,7 @@
   <description>A RSS dedicated to companion news.</description>
   <item>
     <title>Moonlight</title>
-    <description>
-    <![CDATA[
-        <img alt="" 
-             border="0" 
-             src="https://github.com/rgocal/Drywall/blob/master/archives/Campagna/170110_10-01.jpeg?raw=true" 
-             width="1" height="1" />
-    ]]>
-</description>
+    <image>https://github.com/rgocal/Drywall/blob/master/archives/Campagna/170110_10-01.jpeg?raw=true</image>
     <content:encoded>
 <![CDATA[
 <p><img class="alignnone size-large wp-image-826374" src="https://github.com/rgocal/Drywall/blob/master/archives/Campagna/170110_10-01.jpeg?raw=true">
