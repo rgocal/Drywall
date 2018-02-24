@@ -75,6 +75,36 @@
 ]]>
 </content:encoded>
   </item>
+  <item>
+    <title>Xperia X</title>
+    <dc:creator>Sony</dc:creator>
+                    <description>The beginning of a new series of devices. This was one of my favorites!</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://github.com/rgocal/SUI/blob/master/Wallpapers/Xperia/Xperia-X_Xperia_white_painting.png?raw=true">
+]]>
+</content:encoded>
+  </item>
+  <item>
+    <title>Null Galaxy</title>
+    <dc:creator>Samsung</dc:creator>
+                    <description>I beleive this was apart of the wallpaper collection for the release of the Galaxy S6. Im a big fan of the art style ol Sam has used for the Samsung Galaxy wallpapers.</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://github.com/rgocal/SUI/blob/master/Wallpapers/Community/paper_1.jpg?raw=true">
+]]>
+</content:encoded>
+  </item>
+  <item>
+    <title>Marble</title>
+    <dc:creator>Unknown</dc:creator>
+                    <description>This is a marble...and it is very shiny indeed. Truthfully, I just needed that 10th photo in this collection...Harder than I thought?</description>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://github.com/rgocal/SUI/blob/master/Wallpapers/Collections/wall_4.jpg?raw=true">
+]]>
+</content:encoded>
+  </item>
 </channel>
 
 </rss>
